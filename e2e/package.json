@@ -6,7 +6,7 @@
     "check-types": "tsc"
   },
   "devDependencies": {
-    "@babel/core": "7.20.12",
+    "@babel/core": "7.26.10",
     "@babel/eslint-parser": "7.19.1",
     "@mattermost/types": "6.7.0-0",
     "@playwright/test": "^1.48.2",
