@@ -12,7 +12,7 @@
     "@playwright/test": "^1.48.2",
     "@types/node": "^20.10.4",
     "@typescript-eslint/eslint-plugin": "5.49.0",
-    "eslint": "8.33.0",
+    "eslint": "9.0.0",
     "eslint-plugin-formatjs": "4.13.0",
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-react": "7.34.0",
